@@ -19,8 +19,10 @@ PCLC is a novel framework for EEG-based emotion recognition that addresses catas
 - Trains PCLC on SEED-IV sessions 1→3
 - Evaluates cross-dataset generalization (IV→V)
 - Performs continual learning on SEED-V
-- Generates all figures (PDF) and statistical analyses
+- Generates all figures (PDF) and statistical and robustness analyses
 
-📝 # Citation
+📝 
 
-If using this code, please cite our incoming paper on PCLC that is currently underreview in a IEEE Transaction journal.
+## Citation
+
+If using this code, please cite our incoming paper on PCLC that is currently underreview in an **IEEE Transaction** journal.
