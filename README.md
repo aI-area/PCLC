@@ -10,9 +10,9 @@ PCLC is a novel framework for EEG-based emotion recognition that addresses catas
 
 >  SEED_V: https://bcmi.sjtu.edu.cn/home/seed/seed-v.html 
 
-⚙️ 
 
-## The code automatically:
+
+## The code automatically ⚙️ 
 
 - Loads SEED-IV & SEED-V datasets
 - Preprocesses EEG features (DE extraction, robust scaling)
@@ -21,8 +21,8 @@ PCLC is a novel framework for EEG-based emotion recognition that addresses catas
 - Performs continual learning on SEED-V
 - Generates all figures (PDF) and statistical and robustness analyses
 
-📝 
 
-## Citation
+
+## Citation 📝 
 
 If using this code, please cite our incoming paper on PCLC that is currently underreview in an **IEEE Transaction** journal.
